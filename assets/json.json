@@ -1,0 +1,112 @@
+[
+  {
+    "foodName": "Margherita Pizza",
+    "image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+    "longDescription": "A classic Italian pizza topped with fresh mozzarella, tomatoes, and basil. This pizza features a thin, crispy crust that is hand-tossed and baked to perfection. ",
+    "shortDescription": "Classic pizza with mozzarella and basil.",
+    "amount": "250g",
+    "calories": 270,
+    "type": "Italian",
+    "varieties": ["Regular", "Thin Crust", "Stuffed Crust"],
+    "noOfVarieties": 3
+  },
+  {
+    "foodName": "Caesar Salad",
+    "image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+    "longDescription": "A refreshing salad made with romaine lettuce, croutons, and Caesar dressing. The crispness of the lettuce paired with the creamy, tangy dressing creates a perfect balance of flavors. ",
+    "shortDescription": "Crunchy salad with romaine and croutons.",
+    "amount": "200g",
+    "calories": 150,
+    "type": "Salad",
+    "varieties": ["Classic", "Chicken", "Shrimp"],
+    "noOfVarieties": 3
+  },
+  {
+    "foodName": "Sushi Rolls",
+    "image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+    "longDescription": "Delicious sushi rolls filled with fresh fish, vegetables, and seasoned rice. Each roll is expertly crafted with the finest ingredients, ensuring a burst of flavor in every bite.",
+    "shortDescription": "Fresh sushi rolls with fish and veggies.",
+    "amount": "150g",
+    "calories": 300,
+    "type": "Japanese",
+    "varieties": ["California Roll", "Spicy Tuna", "Salmon"],
+    "noOfVarieties": 3
+  },
+  {
+    "foodName": "Cheeseburger",
+    "image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+    "longDescription": "A juicy beef patty topped with melted cheese, lettuce, tomato, and special sauce. The combination of savory flavors and textures creates a satisfying meal that’s hard to resist.",
+    "shortDescription": "Classic cheeseburger with all the fixings.",
+    "amount": "200g",
+    "calories": 350,
+    "type": "American",
+    "varieties": ["Single", "Double", "Veggie"],
+    "noOfVarieties": 3
+  },
+  {
+    "foodName": "Pasta Alfredo",
+    "image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+    "longDescription": "Creamy fettuccine pasta tossed in Alfredo sauce and topped with Parmesan cheese. This indulgent dish is rich and comforting, perfect for those who enjoy a creamy texture and savory flavor.",
+    "shortDescription": "Creamy pasta with Alfredo sauce.",
+    "amount": "300g",
+    "calories": 600,
+    "type": "Italian",
+    "varieties": ["Regular", "Chicken", "Shrimp"],
+    "noOfVarieties": 3
+  },
+  {
+    "foodName": "Tacos",
+    "image": "https://unsplash.com/photos/mexican-cochinita-pibil-tacos-with-habanero-sauce-traditional-food-in-yucatan-mexico-5EPIjZkv87o",
+    "longDescription": "Soft or crispy tortillas filled with seasoned meat, lettuce, and cheese. This popular Mexican dish can be customized with a variety of toppings such as salsa, guacamole, or sour cream.",
+    "shortDescription": "Tasty tacos with your choice of filling.",
+    "amount": "250g",
+    "calories": 400,
+    "type": "Mexican",
+    "varieties": ["Beef", "Chicken", "Vegetarian"],
+    "noOfVarieties": 3
+  },
+  {
+    "foodName": "Chocolate Cake",
+    "image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+    "longDescription": "Rich and moist chocolate cake topped with creamy chocolate frosting. This decadent dessert is perfect for any occasion, from birthdays to celebrations.",
+    "shortDescription": "Decadent chocolate cake for dessert lovers.",
+    "amount": "150g",
+    "calories": 400,
+    "type": "Dessert",
+    "varieties": ["Dark Chocolate", "Milk Chocolate", "Nutty"],
+    "noOfVarieties": 3
+  },
+  {
+    "foodName": "Fried Rice",
+    "image": "https://www.madewithlau.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2r0kdewr%2Fproduction%2F82f8a09e19a456b94077b31d23861a5b03905307-1000x667.jpg&w=3840&q=75",
+    "longDescription": "Stir-fried rice with vegetables, eggs, and your choice of protein. This Asian-inspired dish is a favorite for its savory flavors and hearty texture. ",
+    "shortDescription": "Savory fried rice with mixed veggies.",
+    "amount": "300g",
+    "calories": 450,
+    "type": "Asian",
+    "varieties": ["Chicken", "Shrimp", "Vegetable"],
+    "noOfVarieties": 3
+  },
+  {
+    "foodName": "Grilled Salmon",
+    "image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+    "longDescription": "Perfectly grilled salmon fillet served with lemon and herbs. This healthy dish is packed with omega-3 fatty acids and flavor. ",
+    "shortDescription": "Healthy grilled salmon with lemon.",
+    "amount": "200g",
+    "calories": 350,
+    "type": "Seafood",
+    "varieties": ["Regular", "Herbed", "Spicy"],
+    "noOfVarieties": 3
+  },
+  {
+    "foodName": "Fruit Smoothie",
+    "image": "https://tatyanaseverydayfood.com/wp-content/uploads/2015/01/Fruit-Smoothie.jpg",
+    "longDescription": "A refreshing blend of fruits, yogurt, and a touch of honey. This smoothie is not only delicious but also packed with vitamins and nutrients.",
+    "shortDescription": "Healthy and delicious fruit smoothie.",
+    "amount": "250ml",
+    "calories": 150,
+    "type": "Beverage",
+    "varieties": ["Berry", "Tropical", "Green"],
+    "noOfVarieties": 3
+  }
+]
